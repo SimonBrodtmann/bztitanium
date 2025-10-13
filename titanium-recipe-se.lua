@@ -121,8 +121,8 @@ else
       always_show_made_in = true,
       allow_as_intermediate = false,
       ingredients = {
-        {name = "enriched-titanium", amount = 8},
-        {name = "se-vulcanite-block", amount = 1},
+        { type = "item", name = "enriched-titanium", amount = 8},
+        { type = "item", name = "se-vulcanite-block", amount = 1},
       },
       results = {
         {name = util.me.titanium_plate, amount = 6},
@@ -151,8 +151,8 @@ else
       always_show_made_in = true,
       allow_as_intermediate = false,
       ingredients = {
-        {name = "titanium-ore", amount = 20},
-        {name = "se-vulcanite-block", amount = 1},
+        { type = "item", name = "titanium-ore", amount = 20},
+        { type = "item", name = "se-vulcanite-block", amount = 1},
       },
       results = {
         {name = util.me.titanium_plate, amount = 6},

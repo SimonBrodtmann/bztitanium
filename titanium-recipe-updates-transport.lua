@@ -55,7 +55,7 @@ end
 
 -- Just a general compatiblity improvement with py alien life enabled alongside jetpack or other equipment mods
 if mods["pyalienlife"] then
-  util.remove_prerequisite("modular-armor", "advanced-electronics")
+  util.remove_prerequisite("modular-armor", "advanced-circuit")
 end
 
 if not mods.bzaluminum then

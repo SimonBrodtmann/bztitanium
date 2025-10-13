@@ -1,6 +1,6 @@
 local util = require("data-util");
 
-if mods["248k"] then
+if mods["248k-Redux"] then
   local ti2 = "fi_materials_titan"
 
   -- Swap out all 248k titanium for BZ titanium_plate

@@ -201,11 +201,7 @@ util.replace_ingredient("ultimate-underground-belt", "steel-plate", util.me.tita
 util.replace_ingredient("turbo-splitter", "steel-plate", util.me.titanium_plate)
 util.replace_ingredient("ultimate-splitter", "steel-plate", util.me.titanium_plate)
 util.replace_ingredient("turbo-inserter", "steel-plate", util.me.titanium_plate)
-util.replace_ingredient("turbo-filter-inserter", "steel-plate", util.me.titanium_plate)
 util.replace_ingredient("turbo-stack-inserter", "steel-plate", util.me.titanium_plate)
-util.replace_ingredient("turbo-stack-filter-inserter", "steel-plate", util.me.titanium_plate)
 util.replace_ingredient("turbo-inserter", "steel-plate", util.me.titanium_plate)
-util.replace_ingredient("express-filter-inserter", "steel-plate", util.me.titanium_plate)
 util.replace_ingredient("express-stack-inserter", "steel-plate", util.me.titanium_plate)
-util.replace_ingredient("express-stack-filter-inserter", "steel-plate", util.me.titanium_plate)
 
